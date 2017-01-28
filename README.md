@@ -1,2 +1,2 @@
-# storeDestruct
-Pretend to blow up a department store (Yay?)
+# Shruggie.
+:tada:.
